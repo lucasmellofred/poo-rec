@@ -4,16 +4,16 @@
 
 ```java
 public class calculadora {
-  public String soma(String x, String y) {
-      return a + b;
+  public String somar(String x, String y) {
+      return x + y;
   }
   
-  public double soma(double x, double y) {
-      return a + b;
+  public double somar(double x, double y) {
+      return x + y;
   }
     
-  public int soma(int x, int y) {
-      return a + b;
+  public int somar(int x, int y) {
+      return x + y;
   }    
 }
 ```
