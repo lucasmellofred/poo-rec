@@ -15,3 +15,5 @@
 ![sobrecargametodouml](https://user-images.githubusercontent.com/104468335/194682573-3fce1d02-3a02-454f-bc20-fc6d3f23aea6.png)
 
 * Crie um código que apresente uma relação de composição
+
+![composicaouml](https://user-images.githubusercontent.com/104468335/194683445-60ba197a-0156-4ff2-8a1c-6f55d4d75ec5.png)
